@@ -1,3 +1,3 @@
-# FACs+AI
+# FAC+AI
 
-Fungal artificial chromosome plus Artificial intelligence (FAC+AI) is drug discovery pipline based on python programming language.
+Fungal Artificial Chromosome plus Artificial Intelligence (FAC+AI) is drug discovery pipline based on python programming language.
