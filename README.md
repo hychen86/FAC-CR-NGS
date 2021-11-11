@@ -1,3 +1,3 @@
-# FAC-AI
+# FAC-CR-NGS
 
-Fungal Artificial Chromosome with Artificial Intelligence (FAC-AI) is a pipline for novel secondary metabolites discovery based on python programming language.
+FAC-CR-NGS is a pipline for robust and quick screeing secondary metabolites biosythesis gene clusters from extra large scale FAC library.
